@@ -7,10 +7,10 @@
 
 
 <div align="center">
-  <img align="left" width="430px" src="https://angel.net.my/wp-content/uploads/2023/08/imagine2.png">
+  <img align="left" width="320px" src="https://angel.net.my/wp-content/uploads/2023/08/imagine2.png">
   <div align="right">
     <div align="center">
-        <img width="85" />
+        <img width="35" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
