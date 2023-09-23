@@ -25,8 +25,8 @@
         <p>&nbsp;</p>
     </div>
     
-![Metrics](https://metrics.lecoq.io/earnestangel?template=terminal&base.indepth=true&base.hireable=true&repositories.forks=true&base.metadata=0&lines=1&habits=1&activity=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FKuala_Lumpur)
-    
+![Metrics](https://metrics.lecoq.io/earnestangel?template=terminal&base.metadata=0&fortune=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&fortune=false&config.timezone=Asia%2FKuala_Lumpur)
+
 </div>
 
 <div align="center">
