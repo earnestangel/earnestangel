@@ -30,21 +30,21 @@
 </div>
 
 <div align="center">
-  <img src="https://ririko.angel.net.my/ririkobg.jpg">
-</div>
-
-<div align="center">
   <h3><strong>R I R I K O  A I</strong></h3>
   <h4><strong>OFFICIAL DEVELOPER</strong></h4>
   <p>&nbsp;</p>
 </div>
 
+<div align="center">
+  <img src="https://ririko.angel.net.my/ririkobg.jpg">
+</div>
 
-  <div align="center">  
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=earnestangel&langs_count=10&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true" height="150" alt="stats graph"  />
-    <img src="https://streak-stats.demolab.com?user=earnestangel&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=earnestangel&langs_count=10&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true" height="150" alt="languages graph"  />
-  </div>
+###
+
+<div align="center">  
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=earnestangel&langs_count=10&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=earnestangel&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=earnestangel&langs_count=10&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
