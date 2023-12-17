@@ -25,7 +25,8 @@
         <p>&nbsp;</p>
     </div>
     
-![Metrics](https://metrics.lecoq.io/earnestangel?template=terminal&base.metadata=0&fortune=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&fortune=false&config.timezone=Asia%2FKuala_Lumpur)
+![Metrics](https://metrics.lecoq.io/earnestangel?template=terminal&stargazers=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stargazers=false&stargazers.days=14&stargazers.charts=false&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&config.timezone=Asia%2FKuala_Lumpur)
+
 
 </div>
 
@@ -36,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img src="https://ririko.angel.net.my/ririkobg.jpg">
+  <img src="https://angel.net.my/wp-content/uploads/2023/12/ririko-scaled.jpg">
 </div>
 
 ###
