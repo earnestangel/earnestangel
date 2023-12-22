@@ -30,6 +30,8 @@
 <div align="center">
   <h3><strong>R I R I K O  A I</strong></h3>
   <h4><strong>OFFICIAL DEVELOPER</strong></h4>
+  <p><a href="https://github.com/RirikoAI/RirikoBot">Visit the GitHub Repo</a></p>
+  <p><a href="https://ririko.angel.net.my/">Visit the Official Website</a></p>
   <p>&nbsp;</p>
 </div>
 
