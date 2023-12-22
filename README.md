@@ -10,7 +10,6 @@
   <img align="left" width="320px" src="https://angel.net.my/wp-content/uploads/2023/12/imagine5.7.png">
   <div align="right">
     <div align="center">
-        <img width="35" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -25,7 +24,8 @@
         <p>&nbsp;</p>
     </div>
     
-[![Discord Presence](https://lanyard.cnrad.dev/api/707092368427319357)](https://discord.com/users/707092368427319357)
+[![Discord Presence](https://lanyard.cnrad.dev/api/707092368427319357)](https://discord.com/users/707092368427319357)        <img width="35" />
+
 
 
 </div>
