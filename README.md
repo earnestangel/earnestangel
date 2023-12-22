@@ -9,11 +9,7 @@
   <img align="left" width="320px" src="https://angel.net.my/wp-content/uploads/2023/12/imagine5.7.png">
   <div align="right">
     <div align="center">
-        <div align="center">
-          <h3><strong>R I R I K O  A I</strong></h3>
-          <h4><strong>OFFICIAL DEVELOPER</strong></h4>
-          <p>&nbsp;</p>
-        </div>
+        <p>&nbsp;</p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -27,7 +23,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
         <p>&nbsp;</p>
         <a href="https://discord.com/users/707092368427319357"><img src="https://lanyard.cnrad.dev/api/707092368427319357" /></a>
+        <p>&nbsp;</p>
     </div>
+</div>
+  
+<div align="center">
+  <h3><strong>R I R I K O  A I</strong></h3>
+  <h4><strong>OFFICIAL DEVELOPER</strong></h4>
+  <p>&nbsp;</p>
 </div>
 
 <div align="center">
