@@ -25,7 +25,7 @@
         <p>&nbsp;</p>
     </div>
     
-![Metrics](https://metrics.lecoq.io/earnestangel?template=terminal&stargazers=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stargazers=false&stargazers.days=14&stargazers.charts=false&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&config.timezone=Asia%2FKuala_Lumpur)
+[![Discord Presence](https://lanyard.cnrad.dev/api/707092368427319357)](https://discord.com/users/707092368427319357)
 
 
 </div>
