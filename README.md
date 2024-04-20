@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><strong>H E L L O</strong></h3>
+  <h3><strong>H E L L O :)</strong></h3>
   <h4><strong>もしもし、アンゲルです!</strong></h4>
   <h5><strong>Hello! Angel here!</h5>
   <p>&nbsp;</p>
