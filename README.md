@@ -22,7 +22,7 @@
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
         <p>&nbsp;</p>
-        <a href="https://discord.com/users/707092368427319357"><img src="https://lanyard.cnrad.dev/api/707092368427319357" /></a>
+        <a href="https://discord.com/users/1257377848671600722"><img src="https://lanyard.cnrad.dev/api/1257377848671600722" /></a>
         <p>&nbsp;</p>
     </div>
 </div>
