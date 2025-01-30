@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://angel.net.my/wp-content/uploads/2023/12/ririko-scaled.jpg">
+  <img src="https://angel.net.my/images/ririko.jpg">
 </div>
 
 ###
