@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img align="left" width="320px" src="https://angel.net.my/wp-content/uploads/2023/12/imagine5.7.png">
+  <img align="left" width="320px" src="https://angel.net.my/images/imagine5.7.png">
   <div align="right">
     <div align="center">
         <p>&nbsp;</p>
