@@ -58,7 +58,7 @@
   <div align="center">
     <img align="left"
          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=earnestangel&langs_count=10&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true"
-         width="330px" alt="languages graph" />
+         width="340px" alt="languages graph" />
     <div align="right">
       <div align="center">
         <p>&nbsp;</p>
