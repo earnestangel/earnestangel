@@ -61,7 +61,6 @@
          width="340px" alt="languages graph" />
     <div align="right">
       <div align="center">
-        <p>&nbsp;</p>
         <img
           src="https://github-readme-stats-one-bice.vercel.app/api?username=earnestangel&langs_count=10&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true"
           width="400" alt="stats graph" /><br>
@@ -69,9 +68,8 @@
           src="https://streak-stats.demolab.com?user=earnestangel&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5"
           width="400" alt="streak graph" /><br>
         <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p>Only ones with empathy is truly alive</p>
+        <p><img width="100px" src="https://sdmntprwestus.oaiusercontent.com/files/00000000-4d48-6230-b4b8-49a06e88d82b/raw?se=2025-06-07T19%3A33%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=bf9aeff4-5e67-5efc-a437-e7ba1eb4ac26&skoid=b64a43d9-3512-45c2-98b4-dea55d094240&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-07T12%3A27%3A40Z&ske=2025-06-08T12%3A27%3A40Z&sks=b&skv=2024-08-04&sig=d2LkrJfGFC4nSmjlOF2mEVzHhIoq6foUHqC52GPIKc4%3D"></p>
+        <p>Oh, hey! You're still looking?<br>Thanks for your visit, hope to see you againᵔ ᵕ ᵔ</p>
         <picture>
           <source media="(prefers-color-scheme: dark)"
                   srcset="https://raw.githubusercontent.com/earnestangel/earnestangel/output/github-contribution-grid-snake-dark.svg">
