@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img align="left" width="320px" src="https://i.imgur.com/1IySUfG.png">
+  <img align="left" width="320px" src="https://raw.githubusercontent.com/earnestangel/earnestangel/refs/heads/main/EarnestAngel.png">
   <div align="right">
     <div align="center">
         <p>&nbsp;</p>
