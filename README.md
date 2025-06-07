@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img align="left" width="320px"
+  <img align="left" width="325px"
        src="https://raw.githubusercontent.com/earnestangel/earnestangel/refs/heads/main/EarnestAngel.png">
   <div align="right">
     <div align="center">
@@ -68,6 +68,10 @@
         <img
           src="https://streak-stats.demolab.com?user=earnestangel&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5"
           width="400" alt="streak graph" /><br>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>Only ones with empathy is truly alive</p>
         <picture>
           <source media="(prefers-color-scheme: dark)"
                   srcset="https://raw.githubusercontent.com/earnestangel/earnestangel/output/github-contribution-grid-snake-dark.svg">
