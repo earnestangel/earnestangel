@@ -61,24 +61,13 @@
          width="330px" alt="languages graph" />
     <div align="right">
       <div align="center">
+        <p><img width="100px" src="https://raw.githubusercontent.com/earnestangel/earnestangel/refs/heads/main/EarnestAngel-Chibi.png"></p>
         <img
           src="https://github-readme-stats-one-bice.vercel.app/api?username=earnestangel&langs_count=10&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true"
           width="400" alt="stats graph" /><br>
         <img
           src="https://streak-stats.demolab.com?user=earnestangel&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5"
           width="400" alt="streak graph" /><br>
-        <p>&nbsp;</p>
-        <p><img width="100px" src="https://raw.githubusercontent.com/earnestangel/earnestangel/refs/heads/main/EarnestAngel-Chibi.png"></p>
-        <p>Oh, hey! You're still looking?<br>Thanks for your visit, hope to see you again ᵔ ᵕ ᵔ</p>
-        <picture>
-          <source media="(prefers-color-scheme: dark)"
-                  srcset="https://raw.githubusercontent.com/earnestangel/earnestangel/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)"
-                  srcset="https://raw.githubusercontent.com/earnestangel/earnestangel/output/github-contribution-grid-snake.svg">
-          <img alt="github contribution grid snake animation"
-               src="https://raw.githubusercontent.com/earnestangel/earnestangel/output/github-contribution-grid-snake.svg">
-        </picture>
-        <p>&nbsp;</p>
       </div>
     </div>
   </div>
