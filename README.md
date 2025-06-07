@@ -45,25 +45,23 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-  
-  <!-- Left: Most Used Languages -->
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=earnestangel&langs_count=10&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true" height="550" alt="languages graph" />
-  </div>
+<table  frame="none">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=earnestangel&langs_count=10&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true" height="550" alt="languages graph" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=earnestangel&langs_count=10&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true" height="150" alt="stats graph" /><br>
+      <img src="https://streak-stats.demolab.com?user=earnestangel&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph" /><br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/earnestangel/earnestangel/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/earnestangel/earnestangel/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/earnestangel/earnestangel/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
+  </tr>
+</table>
 
-  <!-- Right: Stats and Streak stacked -->
-  <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; gap: 10px;">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=earnestangel&langs_count=10&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true" height="150" alt="stats graph" />
-    <img src="https://streak-stats.demolab.com?user=earnestangel&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/earnestangel/earnestangel/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/earnestangel/earnestangel/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/earnestangel/earnestangel/output/github-contribution-grid-snake.svg">
-    </picture>
-  </div>
-
-</div>
 
 
 ###
