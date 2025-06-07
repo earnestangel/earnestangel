@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://angel.net.my/images/ririko.jpg">
+  <div>&nbsp;&nbsp;</div>
 </div>
 
 ###
