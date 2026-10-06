@@ -2,7 +2,7 @@
   <h3><strong>H E L L O :)</strong></h3>
   <h4><strong>もしもし、アンゲルです!</strong></h4>
   <h5><strong>Hello! Angel here!</h5>
-  <p>&nbsp;</p>
+  <p>&nbsp;&nbsp;</p>
 </div>
 
 <div align="center">
